@@ -1,0 +1,1 @@
+## This is the project of continuous development and deployment using Git and Docker
